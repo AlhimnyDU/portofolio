@@ -20,7 +20,7 @@
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />  <!-- Template Main CSS File -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" /> <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
@@ -43,7 +43,7 @@
           </ul>
         </div>
         <div class="col-md-6 d-none d-md-block  mr-auto">
-          
+
         </div>
         <div class="col-md-4 d-none d-md-block">
           <h3>Hire Me</h3>
@@ -72,11 +72,11 @@
 
             <h2>About Me</h2>
             <p class="mb-0">
-              Nama    : Alhimny Dwinata Utama, S.Kom. <br>
-              TTL     : Bandung, 28 April 1999 <br>
-              Alamat  : Bukit Permata Cinunuk Blok C20 Ds Cinunuk Kec.Cileunyi Kab.Bandung Jawa Barat 40624
-              Email   : dwinata1@gmail.com <br>
-              No HP   : +62 878 2535 1290
+              Nama : Alhimny Dwinata Utama, S.Kom. <br>
+              TTL : Bandung, 28 April 1999 <br>
+              Alamat : Bukit Permata Cinunuk Blok C20 Ds Cinunuk Kec.Cileunyi Kab.Bandung Jawa Barat 40624
+              Email : dwinata1@gmail.com <br>
+              No HP : +62 878 2535 1290
             </p>
           </div>
 
@@ -137,7 +137,7 @@
               dapat editing foto maupun video dan beberapa software lainnya. Dengan
               kemampuan yang saya miliki, saya dapat belajar dan beradaptasi dengan
               perubahan industri yang baru.</p>
-            <p><a href="#" class="readmore">Download my CV</a></p>
+            <p><a href="assets/CV_Alhimny_DU.pdf" class="readmore">Download my CV</a></p>
           </div>
 
         </div>
