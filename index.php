@@ -132,11 +132,7 @@
 
           <div class="col-md-7 mb-5 mb-md-0" data-aos="fade-up">
             <p><img src="assets/img/alhimny.jpg" alt="Image" class="img-fluid"></p>
-            <p>Saya memiliki pengalaman membuat sistem informasi untuk digitalisasi
-              perusahaan/institusi dalam membantu pekerjaan. Selain programming, saya
-              dapat editing foto maupun video dan beberapa software lainnya. Dengan
-              kemampuan yang saya miliki, saya dapat belajar dan beradaptasi dengan
-              perubahan industri yang baru.</p>
+            <p>Hello I am Alhimny, I have work experience as a developer software NodeJS ,PHP, and ASP .NET. I created information system for company. I am also interest in Machine Learning and Deep Learning and created ML or DL system with framework Flask Python.</p>
             <p><a href="assets/CV_Alhimny_DU.pdf" class="readmore">Download my CV</a></p>
           </div>
 
@@ -167,10 +163,28 @@
         </div>
         <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
           <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="#" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>CORE DAPENASTRA</h3>
+                <span>Web (ASP.NET)</span>
+              </div>
+              <img class="img-fluid" src="assets/img/CORE.jpg">
+            </a>
+          </div>
+          <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://moris.dapenastra.com/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>MORIS DAPENASTRA</h3>
+                <span>Web (PHP)</span>
+              </div>
+              <img class="img-fluid" src="assets/img/moris.jpg">
+            </a>
+          </div>
+          <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
             <a href="https://cdc.itenas.ac.id/" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Career Development Center (CDC) Itenas</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/cdc.png">
             </a>
@@ -179,7 +193,7 @@
             <a href="https://tracerstudy.itenas.ac.id/" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Tracer Study Itenas</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/tracer.png">
             </a>
@@ -188,7 +202,7 @@
             <a href="https://sikk.itenas.ac.id/" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Kegiatan Kemahasiswaan</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/sikk.png">
             </a>
@@ -197,7 +211,7 @@
             <a href="https://seminar.ratmi.itenas.ac.id/home" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Proceeding Seminar RATMI</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/ratmi.png">
             </a>
@@ -206,7 +220,7 @@
             <a href="https://cdc.itenas.ac.id/halaman/jobfair_home" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Virtual Job Fair Itenas</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/jobfair.png">
             </a>
@@ -215,7 +229,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Media Informasi Bersama Itenas</h3>
-                <span>Web</span>
+                <span>Web (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/medinfo.png">
             </a>
@@ -233,7 +247,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Peminjaman Buku Perpustakaan dengan QR CODE</h3>
-                <span>Website & Mobile</span>
+                <span>Website & Mobile (PHP)</span>
               </div>
               <img class="img-fluid" src="assets/img/scan.png">
             </a>
@@ -242,7 +256,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Speech Recognation dan Speaker Recognation</h3>
-                <span>Natural Language Processing</span>
+                <span>Natural Language Processing (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/speech.png">
             </a>
@@ -251,7 +265,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Chat-Bot</h3>
-                <span>Natural Language Processing</span>
+                <span>Natural Language Processing (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/mobot.png">
             </a>
@@ -260,7 +274,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Pakar Bengkel Motor</h3>
-                <span>Web</span>
+                <span>Web (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/sispak.png">
             </a>
@@ -269,7 +283,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Klasifikasi Status Gunung Api</h3>
-                <span>Machine Learning</span>
+                <span>Machine Learning (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/gunungapi.png">
             </a>
@@ -278,7 +292,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Klasifikasi Jenis Bentuk Daun Metode Treshold</h3>
-                <span>Machine Learning</span>
+                <span>Machine Learning (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/daun.png">
             </a>
@@ -287,7 +301,7 @@
             <a href="#" class="item-wrap fancybox">
               <div class="work-info">
                 <h3>Sistem Klasifikasi Jenis Batik Metode Wavelet</h3>
-                <span>Machine Learning</span>
+                <span>Machine Learning (Python)</span>
               </div>
               <img class="img-fluid" src="assets/img/batik.png">
             </a>
